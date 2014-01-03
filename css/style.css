@@ -49,6 +49,7 @@ body > #content {
 
 #hotwok-head h1 {
 	font-size: 500%;
+	font-family: 'Knewave', cursive;
 }
 
 @media (max-width: 767px) {
