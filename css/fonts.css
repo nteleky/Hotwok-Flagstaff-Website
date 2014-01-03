@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+@font-face {
+	font-family: forte;
+	src: url(assets/fonts/forte.ttf);
+}
+
+@font-face {
+	font-family: forte;
+	src: url(http://nteleky.github.io/Hotwok-Flagstaff-Website/assets/fonts/forte.ttf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: forte;
+	src: url(http://nteleky.github.io/Hotwok-Flagstaff-Website/assets/fonts/forte.ttf);
+	font-weight: small;
+}
+
+@font-face{
+	font-family: sourcesanspro;
+	src: url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+}
