@@ -25,10 +25,23 @@ body {
   	padding-right:12px;
 }
 
+.white {
+	color: white;
+}
+
 #hotwok-head {
 	text-align: center;
 }
 
 #hotwok-head h1 {
 	font-size: 500%;
+}
+
+@media (max-width: 767px) {
+	body {
+		background: #333;
+	}
+	#hotwok-head h1 {
+		font-size: 270%;
+	}
 }
