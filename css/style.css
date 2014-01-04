@@ -50,7 +50,7 @@ body > #content {
 }
 
 #hotwok-head h1 {
-	font-size: 620%;
+	font-size: 450%;
 	font-family: 'forte', cursive;
 }
 
@@ -63,8 +63,11 @@ body > #content {
 	}
 }
 
+.jumbotron {font-size: 18px;}
+
 .jumbotron h1 {
 	font-family: 'forte', cursive;
+	font-size: 250%;
 }
 
 .menu-item {
