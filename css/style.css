@@ -70,6 +70,17 @@ body > #content {
 	font-size: 250%;
 }
 
+/* Image editing */
+
+#karaoke-img{
+	height: 50%;
+	width: 50%;
+	float: left;
+	padding-right: 10px;
+}
+
+/* Food Menu Styles */
+
 .menu-item {
 	color: white;
 }
@@ -95,6 +106,26 @@ body > #content {
 	float: left;
 	text-align: center;
 	width: 33%;
+}
+
+/* Online Order Buttons */
+.online-order {
+	padding: 10px;
+}
+
+#ordering-content {
+	text-align: center;
+}
+
+/* Hours */
+
+#hours-table {
+	width: 50%;
+	background-color: transparent;
+}
+
+#map {
+	
 }
 
 #footer {
